@@ -1,6 +1,4 @@
-In this project, let's build a **Hamburger Menu** app by applying the concepts we have learned till now.
 
-### Refer to the image below:
 
 <br/>
 PROJECT URL : https://myburgermenu7.ccbp.tech/
